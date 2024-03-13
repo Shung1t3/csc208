@@ -8,3 +8,9 @@ arrow pointing to the right
 :  enclose the text you want to highlight with mark tags.
     
     <mark></mark>
+
+existential quantifier
+: ∃
+
+universal quantifier
+: ∀
